@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.exe
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.deps.json
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.runtimeconfig.json
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.dll
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.pdb
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.dll
+D:\DLS-RFP-278\Project\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.pdb
